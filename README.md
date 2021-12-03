@@ -26,7 +26,7 @@
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" /> -->
 <!-- </p> -->
 
-![](https://komarev.com/ghpvc/?username=shrikanta8)
+![](https://komarev.com/ghpvc/?username=shrikanta8&style=plastic)
 
 
 <!--
