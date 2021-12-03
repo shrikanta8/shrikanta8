@@ -1,8 +1,8 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=shrikanta8)
 
-<img src="https://user-images.githubusercontent.com/42779746/144641650-66286e23-31a7-4047-938d-4735f8be9ecd.gif" width="30" height="30" /> **Glad to see you!** 
+
+<img src="https://user-images.githubusercontent.com/42779746/144641650-66286e23-31a7-4047-938d-4735f8be9ecd.gif" width="30" height="30" /> **Glad to see you here!** 
 
 <img align="right" width="240" height="240" src="https://user-images.githubusercontent.com/42779746/144643562-2d1a59e5-cdaa-42c0-b01a-1ec9122e35c6.gif">
 
@@ -26,7 +26,7 @@
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" /> -->
 <!-- </p> -->
 
-
+![](https://komarev.com/ghpvc/?username=shrikanta8)
 
 
 <!--
