@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning Java and Full Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with finding projects to contribute to!
 - 💬 Ask me about anything!
 - 📫 How to reach me: kalantrishriji8@gmail.com
 - 😄 Pronouns: She / her
@@ -27,11 +26,6 @@
 
 
 
-
-
-
-
-
 <!--
 **shrikanta8/shrikanta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +34,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - D🌱 I’m currently learning ...
 
-- D🤔 I’m looking for help with ...
+-🤔 I’m looking for help with ... finding projects to contribute to! 
 - D💬 Ask me about ...
 - D📫 How to reach me: ...
 - D😄 Pronouns: ...
