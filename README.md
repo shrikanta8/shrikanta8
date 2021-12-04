@@ -18,14 +18,16 @@
 
 <!-- <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <p>
+  <img alt="C"src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?logo=Bulma&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="C"src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
-<!--   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=for-the-badge" />
-  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" /> -->
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
 </p>
 
 
@@ -36,7 +38,7 @@
 <!--  languages status -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikanta8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<br>
 <!-- <p align ="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" />
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" /> -->
