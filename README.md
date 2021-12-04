@@ -1,10 +1,15 @@
 # Hi! <img src="https://user-images.githubusercontent.com/42779746/144705177-6d802426-b13f-4cfc-9c0e-a32a0bddac5a.gif" width="40" height="35" />
 <!-- # Hi 👋 -->
 
-
 <img src="https://user-images.githubusercontent.com/42779746/144641650-66286e23-31a7-4047-938d-4735f8be9ecd.gif" width="30" height="30" /> **Glad to see you here!** 
 
-<img align="right" src="https://user-images.githubusercontent.com/42779746/144643562-2d1a59e5-cdaa-42c0-b01a-1ec9122e35c6.gif">
+
+<!-- views -->
+![](https://komarev.com/ghpvc/?username=shrikanta8&style=plastic)
+
+
+
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/42779746/144643562-2d1a59e5-cdaa-42c0-b01a-1ec9122e35c6.gif">
 
 - 🌱 I’m currently learning Java and Full Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -56,8 +61,7 @@
 [![Shriji's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikanta8&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!-- views -->
-![](https://komarev.com/ghpvc/?username=shrikanta8&style=plastic)
+
 
 
 <!--
