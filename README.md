@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 
 
@@ -13,6 +13,22 @@
 - 😄 Pronouns: She / her
 
 ---
+
+### Languages and tools
+
+<!-- <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="C"src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
+<!--   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=for-the-badge" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" /> -->
+</p>
+
+
 <!--  gmail icons-->
 <!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](kalantrishriji8@gmail.com)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" />](kalantrishriji8@gmail.com) -->
