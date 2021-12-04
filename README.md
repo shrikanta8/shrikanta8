@@ -1,5 +1,5 @@
-# Hi 👋
-
+# Hi! <img src="https://user-images.githubusercontent.com/42779746/144705177-6d802426-b13f-4cfc-9c0e-a32a0bddac5a.gif" width="40" height="35" />
+<!-- # Hi 👋 -->
 
 
 <img src="https://user-images.githubusercontent.com/42779746/144641650-66286e23-31a7-4047-938d-4735f8be9ecd.gif" width="30" height="30" /> **Glad to see you here!** 
@@ -9,8 +9,14 @@
 - 🌱 I’m currently learning Java and Full Stack Web Development
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about anything!
-- 📫 How to reach me: kalantrishriji8@gmail.com
 - 😄 Pronouns: She / her
+- 📫  How to reach me: kalantrishriji8@gmail.com
+
+<!-- <br><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     [![Gmail Badge](https://img.shields.io/badge/-kalantrishriji8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalantrishriji8@gmail.com?subject=Hello%20Shrikanta)](mailto:kalantrishriji8@gmail.com)
+     ![Discord Badge](https://img.shields.io/badge/shriji-5865F2?style=flat-square&logo=Discord&logoColor=white) -->
+
 
 ---
 
@@ -39,11 +45,18 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikanta8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
+
+<!-- stats -->
+
 <!-- <p align ="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" />
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" /> -->
 <!-- </p> -->
 
+[![Shriji's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikanta8&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- views -->
 ![](https://komarev.com/ghpvc/?username=shrikanta8&style=plastic)
 
 
@@ -53,11 +66,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- D🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 
--🤔 I’m looking for help with ... finding projects to contribute to! 
-- D💬 Ask me about ...
-- D📫 How to reach me: ...
-- D😄 Pronouns: ...
+- 🤔 I’m looking for help with ... finding projects to contribute to! 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
