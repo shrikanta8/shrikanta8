@@ -27,7 +27,6 @@
 
 ### Languages and tools
 
-<!-- <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <p>
   <img alt="C"src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white&style=for-the-badge" />
@@ -55,7 +54,6 @@
 
 <!-- <p align ="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" />
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" /> -->
 <!-- </p> -->
 
 [![Shriji's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikanta8&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
