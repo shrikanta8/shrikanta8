@@ -3,12 +3,6 @@
 
 <img src="https://user-images.githubusercontent.com/42779746/144641650-66286e23-31a7-4047-938d-4735f8be9ecd.gif" width="30" height="30" /> **Glad to see you here!** 
 
-
-<!-- views -->
-![](https://komarev.com/ghpvc/?username=shrikanta8&style=plastic)
-
-
-
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/42779746/144643562-2d1a59e5-cdaa-42c0-b01a-1ec9122e35c6.gif">
 
 - 🌱 I’m currently learning Java and Full Stack Web Development
@@ -22,10 +16,9 @@
      [![Gmail Badge](https://img.shields.io/badge/-kalantrishriji8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalantrishriji8@gmail.com?subject=Hello%20Shrikanta)](mailto:kalantrishriji8@gmail.com)
      ![Discord Badge](https://img.shields.io/badge/shriji-5865F2?style=flat-square&logo=Discord&logoColor=white) -->
 
-
 ---
 
-### Languages and tools
+## Languages and tools
 
 <!-- <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <p>
@@ -40,7 +33,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
 </p>
-
 
 <!--  gmail icons-->
 <!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](kalantrishriji8@gmail.com)
@@ -58,11 +50,7 @@
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" /> -->
 <!-- </p> -->
 
-[![Shriji's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrikanta8&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
+[![Shriji's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shrikanta8&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **shrikanta8/shrikanta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
