@@ -45,7 +45,7 @@
 <!-- stats -->
 
 <!-- <p align ="center"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikanta8&hide=stars&show_icons=true&theme=aura" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrikanta8&show_icons=true&theme=aura" />
 <!-- </p> -->
 
 [![Shriji's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shrikanta8&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
