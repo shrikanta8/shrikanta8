@@ -29,6 +29,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?logo=Bulma&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=for-the-badge" />    
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
 </p>
