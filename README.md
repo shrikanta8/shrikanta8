@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/Shrikanta8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Shrikanta8" height="30" width="40" /></a>
 <a href="https://leetcode.com/Shrikanta8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shrikanta8" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shrijik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shrijik" height="30" width="40" /></a>
-<a href="https://twitter.com/shrikanta08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrikanta08" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/shrikanta08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrikanta08" height="30" width="40" /></a> -->
     
 <!--  gmail icons-->
 <!-- [<img align="center" height="30" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](kalantrishriji8@gmail.com) -->
