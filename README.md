@@ -5,7 +5,7 @@
 
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/42779746/144643562-2d1a59e5-cdaa-42c0-b01a-1ec9122e35c6.gif">
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently exploring Java
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about anything!
 - 😄 Pronouns: She / her 
